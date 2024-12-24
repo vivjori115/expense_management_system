@@ -1,0 +1,8 @@
+2024-12-24 15:22:59,662 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2024-12-24 15:22:59,765 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-12-24 15:30:46,038 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2024-12-24 15:30:46,078 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-12-24 15:30:46,086 - db_helper - INFO - insert_expense called with date: 2024-08-25, amount: 40, category: Food, notes: Eat tasty samosa chat
+2024-12-24 15:30:51,580 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2024-12-24 15:30:51,609 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2024-12-24 15:30:51,616 - db_helper - INFO - insert_expense called with date: 2024-08-25, amount: 40, category: Food, notes: Eat tasty samosa chat
